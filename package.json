@@ -1,6 +1,6 @@
 {
   "name": "@bluejeans/react-native-linear-gradient",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A <LinearGradient> element for react-native",
   "main": "index",
   "author": "BlueJeans Network, Inc.",
