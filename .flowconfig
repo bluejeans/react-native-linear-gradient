@@ -3,6 +3,7 @@
 # We fork some components by platform.
 .*/*.web.js
 .*/*.android.js
+.*/*.windows.js
 
 # Some modules have their own node_modules with overlap
 .*/node_modules/node-haste/.*
