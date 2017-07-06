@@ -13,7 +13,7 @@
     "flow": "flow"
   },
   "dependencies": {
-    "@bluejeans/react-native-windows": "github:bluejeans/react-native-windows.git#internal-release-netstandard",
+    "@bluejeans/react-native-windows": "0.42.1-rc.13",
     "react-native": "^0.42.0"
   },
   "devDependencies": {
