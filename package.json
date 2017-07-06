@@ -13,11 +13,7 @@
     "flow": "flow"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@bluejeans/react-native-windows": "0.42.1-rc.13",
-=======
-    "@bluejeans/react-native-windows": "0.42.1-rc.8",
->>>>>>> internal-release-branch
+    "@bluejeans/react-native-windows": "0.42.1-rc.14",
     "react-native": "^0.42.0"
   },
   "devDependencies": {
